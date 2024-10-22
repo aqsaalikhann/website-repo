@@ -1,0 +1,26 @@
+.hero{
+    align-items:center;
+    justify-content: center;
+    text-align: center;
+    height: 100vh;
+    padding: 40px;
+    margin-top: 20px;
+    background-color:#f2f2f2;
+
+
+}
+.paragraph{
+    font-size: 1.25rem;
+    text-align: center;
+    
+
+}
+
+.hero h1{
+    font-size: 2rem;
+    margin-bottom:1rem;
+    text-align:center;
+    color:#333;
+
+}
+    
